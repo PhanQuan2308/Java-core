@@ -1,0 +1,14 @@
+
+f
+java:S1192"IDefine a constant instead of duplicating this literal "Bac Ninh" 3 times.(¡’Â‡8¿Â™ï¨2
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ûƒ¤øÿÿÿÿÿ8ÀÂ™ï¨2
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(‰û¯©8ÀÂ™ï¨2
+G	java:S106"+Replace this use of System.out by a logger.(ñý–ë8ÇÂ™ï¨2
+B
+java:S2129" Remove this "String" constructor(ï†åÔÿÿÿÿÿ8ÔÂ™ï¨2
+L	java:S106"+Replace this use of System.out by a logger.(Ûƒ¤øÿÿÿÿÿ8ÕÂ™ï¨2
+^
+java:S3457"AFormat specifiers should be used instead of string concatenation.(‰û¯©8ˆóšï¨2
+G	java:S106"+Replace this use of System.out by a logger.(‰û¯©8ÕÂ™ï¨2
