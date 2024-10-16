@@ -17,4 +17,10 @@ public class Static {
         System.out.println("Non-static Variable: " + nonStaticVar);
         staticMethod();
     }
+
+    public static void main(String[] args) {
+        Static s1 = new Static();
+
+        staticMethod();
+    }
 }
