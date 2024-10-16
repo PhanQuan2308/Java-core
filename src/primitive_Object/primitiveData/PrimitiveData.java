@@ -2,7 +2,7 @@ package primitive_Object.primitiveData;
 
 // kieu du lieu nguyen thuy la luu tru gia tri thuc va khong phai Object
 //     + khong the goi cac phuong thuc tren no, luu truc tiep vao bo nho.
-//     + kich thuoc co dinh, hieu suat tot.
+//     + kich thuoc co dinh, hieu suat tot do khong phai tham chieu
 
 
 public class PrimitiveData {
