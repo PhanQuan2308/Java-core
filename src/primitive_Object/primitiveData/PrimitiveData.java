@@ -7,6 +7,8 @@ package primitive_Object.primitiveData;
 
 public class PrimitiveData {
     public static void main(String[] args) {
+
+        //int va boolean la du lieu nguyen thuy
         int number = 5;
         boolean isTrue = true;
 
