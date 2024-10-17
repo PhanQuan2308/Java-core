@@ -1,6 +1,6 @@
 
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( Ύζ¤ϋÿÿÿÿ8ρ¨τή¨2
-F	java:S106"+Replace this use of System.out by a logger.(έh8ώ¨τή¨2
+F	java:S106"+Replace this use of System.out by a logger.(έh8ώ¨τή¨2
 ^
-java:S3457"AFormat specifiers should be used instead of string concatenation.(µ€ήθ8ÿ¨τή¨2
-G	java:S106"+Replace this use of System.out by a logger.(µ€ήθ8ÿ¨τή¨2
+java:S3457"AFormat specifiers should be used instead of string concatenation.(µ€ήθ8ÿ¨τή¨2
+G	java:S106"+Replace this use of System.out by a logger.(µ€ήθ8ÿ¨τή¨2

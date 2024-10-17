@@ -3,3 +3,7 @@
 G	java:S106"+Replace this use of System.out by a logger.(Àâä 8Ö·ñ¨2
 G	java:S106"+Replace this use of System.out by a logger.(Å××½8×·ñ¨2
 G	java:S106"+Replace this use of System.out by a logger.(ò¦èõ8Ø·ñ¨2
+X
+java:S1854"6Remove this useless assignment to local variable "s1".(ÙÎ¯äùÿÿÿÿ8Í‰¡±©2
+I
+java:S1481"'Remove this unused "s1" local variable.(ÙÎ¯äùÿÿÿÿ8Í‰¡±©2

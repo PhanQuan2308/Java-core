@@ -49,3 +49,9 @@ Q
 !src/oop/classInstaince/Class.java,d\7\d731f6fd85ca99c9a903030b85365e7a7f339729
 T
 $src/oop/classInstaince/Instance.java,2\8\2830f8294d6f5b9e557d31467d7c79024f0870ea
+P
+ src/memory/StaticAllocation.java,7\6\7665cfe41018912cb4e8049d361897c31791fe3c
+Q
+!src/memory/DynamicAllocation.java,6\2\6224b5a90a7f5ccdcc2b9ad198713d00ef3aa48c
+L
+src/memory/StackAndHeap.java,c\2\c24331f714b8f79d55afc7400467582494b23438
