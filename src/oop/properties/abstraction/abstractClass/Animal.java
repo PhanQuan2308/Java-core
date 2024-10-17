@@ -5,6 +5,8 @@ package oop.properties.abstraction.abstractClass;
 //   + co ca phuong thuc truu tuong va phuong thuc co trinh trien khai
 //   + 1 class con chỉ kế thừa đc 1 abstract class
 //   + khong the khoi tao truc tiep ma phai thong qua thang con
+//   + khi ma co nhieu thang con co chung methob thi se sinh ra abstractclass
+//   +
 public abstract class Animal {
     public abstract void eat();
     public void sleep(){
