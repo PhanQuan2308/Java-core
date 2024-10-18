@@ -1,4 +1,4 @@
 
 G
-java:S2201"*The return value of "concat" must be used.(¡»Ô8Ãğ“î¨2
-G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8Äğ“î¨2
+java:S2201"*The return value of "concat" must be used.(¡»Ô8Ãğ“î¨2
+L	java:S106"+Replace this use of System.out by a logger.(ïÕÉÖùÿÿÿÿ8Äğ“î¨2
